@@ -19,6 +19,12 @@ if zn == "-":
 if zn == "*":
     print(x * y)
 
+if zn == "/":
+    if y == 0:
+        print("not possible to divide with zero")
+    else:
+        print(x / y)
+
     
 
 

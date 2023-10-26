@@ -10,3 +10,9 @@ All students in course are 12-15 years old and most of them had no expirience wi
 `apps` is a folder with sipmple applications. We aim to learn enough about programming, that we will be able to create these apps.
 
 `code_from_lessons` is a folder with code we made each lesson. This is also provided to all students.
+
+
+## Software we use
+- python
+- VSCode
+- pylance (VSCode extensions)
