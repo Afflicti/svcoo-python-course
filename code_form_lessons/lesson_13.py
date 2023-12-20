@@ -39,7 +39,7 @@ def DrawTriangle1(x):
 DrawVerticalLine(5)
 DrawSquare(5)
 DrawRectangle(4, 10)
-DrawTriangle1(5) #vyska
+DrawTriangle1(5) 
 
 
 
