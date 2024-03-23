@@ -24,8 +24,3 @@ if zn == "/":
         print("not possible to divide with zero")
     else:
         print(x / y)
-
-    
-
-
-

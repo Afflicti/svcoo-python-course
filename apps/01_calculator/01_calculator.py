@@ -1,4 +1,4 @@
-print("\n\nCODE MADE BY JAKUB KOPCANSKY - SIMPLE CALCULATOR\n")
+print("\n\nSIMPLE CALCULATOR\n")
 
 print("Hello user! Please insert your equation...\n")
 
