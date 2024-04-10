@@ -26,8 +26,7 @@ winCombinations = [
 def addSymbol():
     global nextSymbol
     choice = int(input("enter tile 1-9:  "))
-    if (choice >= 1 and choice <=9) and board[choice-1] == '-':
-        board[choice-1] = 'O'
+    if (choice >= 1 and choice <=9) and board[choice-1] == '-': 
         if (nextSymbol):
             board[choice-1] = 'O'
             nextSymbol = False
